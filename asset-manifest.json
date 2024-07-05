@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/le-chateau/static/css/main.cf5cc3ce.css",
-    "main.js": "/le-chateau/static/js/main.7b263d55.js",
+    "main.js": "/le-chateau/static/js/main.107fbbf0.js",
     "index.html": "/le-chateau/index.html",
     "main.cf5cc3ce.css.map": "/le-chateau/static/css/main.cf5cc3ce.css.map",
-    "main.7b263d55.js.map": "/le-chateau/static/js/main.7b263d55.js.map"
+    "main.107fbbf0.js.map": "/le-chateau/static/js/main.107fbbf0.js.map"
   },
   "entrypoints": [
     "static/css/main.cf5cc3ce.css",
-    "static/js/main.7b263d55.js"
+    "static/js/main.107fbbf0.js"
   ]
 }
